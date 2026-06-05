@@ -190,6 +190,3 @@ Rick and Morty App adalah aplikasi Android yang dibangun dengan **Kotlin + Jetpa
 | TC-UNIT-011 | Presentation (ViewModel) | `DetailViewModel` — uiState terupdate sesuai mock (success & error) |
 
 ---
-
-
-📌 **Project Board Jira:** [clips.id/JiraKelompok3JKPL](http://clips.id/JiraKelompok3JKPL)
