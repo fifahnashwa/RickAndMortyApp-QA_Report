@@ -182,7 +182,6 @@
 
 | Scope | Rekomendasi |
 |---|---|
-| TC-PROB-001 | Tambahkan unit test untuk Data layer (Repository Implementation, DAO) dan Presentation layer (SearchViewModel, FavoriteViewModel) pada siklus berikutnya agar coverage mencapai target >= 70%. |
 | TC-SEARCH-003 s/d 007 | Perlu ditambahkan keterangan pada precondition di STD bahwa **filter hanya bekerja jika search field terisi** — temuan ini tidak tercantum di expected result STD sebelumnya. |
 
 ---
